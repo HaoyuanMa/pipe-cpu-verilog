@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Sep 22 13:03:14 2020
+# Process ID: 16272
+# Current directory: C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3536 C:\Users\MaHaoyuan\Desktop\cpu\pipe_cpu\pipe_cpu.xpr
+# Log file: C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/vivado.log
+# Journal file: C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:22 ; elapsed = 00:00:11 . Memory (MB): peak = 732.305 ; gain = 112.762
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Sep 22 13:04:18 2020...

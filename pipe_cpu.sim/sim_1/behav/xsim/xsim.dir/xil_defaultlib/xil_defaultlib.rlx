@@ -1,0 +1,19 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sim_1/new/testbench.v,1600641024,verilog,,,,testbench,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/alu.v,1600760839,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/bru.v,,alu,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/bru.v,1600974912,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/cu.v,,bru,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/cu.v,1600784475,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/data_ram.v,,cu,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/data_ram.v,1599903118,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/decoder.v,,data_ram,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/decoder.v,1599902520,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/exs.v,,decoder_5_32;decoder_6_64,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/exs.v,1600767956,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/ids.v,,exs,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/ids.v,1600778225,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/ifs.v,,ids,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/ifs.v,1600672513,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/inst_ram.v,,ifs,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/inst_ram.v,1599994027,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/mes.v,,inst_ram,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/mes.v,1600680337,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/pipe_cpu.v,,mes,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/pipe_cpu.v,1600680514,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/regfile.v,,pipe_cpu,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/regfile.v,1599801441,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/wbs.v,,regfile,,,,,,,,
+C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sources_1/new/wbs.v,1600614564,verilog,,C:/Users/MaHaoyuan/Desktop/cpu/pipe_cpu/pipe_cpu.srcs/sim_1/new/testbench.v,,wbs,,,,,,,,

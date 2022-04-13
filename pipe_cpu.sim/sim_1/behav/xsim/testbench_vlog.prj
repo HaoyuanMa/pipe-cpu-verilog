@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../pipe_cpu.srcs/sources_1/new/alu.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/bru.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/cu.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/data_ram.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/decoder.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/exs.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/ids.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/ifs.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/inst_ram.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/mes.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/pipe_cpu.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/regfile.v" \
+"../../../../pipe_cpu.srcs/sources_1/new/wbs.v" \
+"../../../../pipe_cpu.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
